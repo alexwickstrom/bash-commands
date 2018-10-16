@@ -7,4 +7,4 @@
 ### vim:
 
 Exit vim:
-<kbd>esc</kbd> , <kbd>:</kbd>, <kbd>q</kbd>
+<kbd>Esc</kbd> , <kbd>:</kbd>, <kbd>q</kbd>
