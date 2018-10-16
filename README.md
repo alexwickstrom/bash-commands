@@ -7,6 +7,6 @@
 ### vim:
 
 Exit vim:
-`<kbd>exc</kbd>`
-`<kbd>colon<kbd>`
-`<kbd>q</kbd>`
+<kbd>exc</kbd>
+<kbd>colon<kbd>
+<kbd>q</kbd>
