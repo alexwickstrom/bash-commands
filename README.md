@@ -3,3 +3,10 @@
 ## rsync:
 
 `rsync -a --stats --progress user@remote-location.edu:/map/to/dir /Local/dir/branch`
+
+### vim:
+
+Exit vim:
+`<kbd>exc</kbd>`
+`<kbd>colon<kbd>`
+`<kbd>q</kbd>`
