@@ -11,3 +11,8 @@ Exit vim:
 
 ### Change r/w/x permissions only to the folders/subfolders in a directory, excluding the files:
 `sudo find /path/to/dir -type d -exec chmod 755 {} \;`
+
+
+### virtualenv: choose python distro
+
+virtualenv -p /usr/bin/path-to-python-version
