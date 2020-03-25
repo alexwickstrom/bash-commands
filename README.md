@@ -15,7 +15,7 @@ Exit vim:
 
 ### virtualenv: choose python distro
 
-`virtualenv -p /usr/bin/path-to-python-version`
+`virtualenv -p /usr/bin/path-to-python-version env_name`
 
 
 ## setup jupyter 
