@@ -16,3 +16,8 @@ Exit vim:
 ### virtualenv: choose python distro
 
 virtualenv -p /usr/bin/path-to-python-version
+
+
+## setup jupyter 
+In remote server:  
+`jupyter lab --no-browser --port=8001`
