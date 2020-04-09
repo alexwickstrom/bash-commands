@@ -25,5 +25,9 @@ In local computer / laptop:
 `alias jupLAB="ssh -N -f -L localhost:8001:localhost:8001 awick@remote.url && open http://localhost:8001"`  
 
 ## tmux 
-new session: 
+new session:   
 `tmux new -s session-name`
+attach to last session:  
+`tmux a`  
+list active sessions:   
+`tmux ls`
