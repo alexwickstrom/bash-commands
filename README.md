@@ -26,8 +26,8 @@ In local computer / laptop:
 
 ## tmux 
 new session:   
-`tmux new -s session-name`
+`tmux new -s session-name`  
 attach to last session:  
-`tmux a`  
+`tmux a`   
 list active sessions:   
-`tmux ls`
+`tmux ls`. 
