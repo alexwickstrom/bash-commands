@@ -9,9 +9,14 @@
 Exit vim:
 <kbd>Esc</kbd> , <kbd>:</kbd>, <kbd>q</kbd>
 
+Exit and save changes: 
+<kbd>Esc</kbd> <kbd>:</kbd> <kbd>w</kbd><kbd>q</kbd>
+
 ### Change r/w/x permissions only to the folders/subfolders in a directory, excluding the files:
 `sudo find /path/to/dir -type d -exec chmod 755 {} \;`
 
+### grep:
+`grep -r 'stringToSearch' *`
 
 ### virtualenv: choose python distro
 
