@@ -17,6 +17,8 @@ Exit and save changes:
 
 ### grep:
 `grep -r 'stringToSearch' *`
+Search for string `pattern` in all files/folders in directory:  
+`grep -rnw '/path/to/somewhere/' -e 'pattern'`
 
 ### virtualenv: choose python distro
 
