@@ -38,3 +38,9 @@ attach to last session:
 `tmux a`   
 list active sessions:   
 `tmux ls`. 
+
+## Source .bashrc upon login:
+Add the following to `~/.profile`:
+`if [ -s ~/.bashrc ]; then`
+`    source ~/.bashrc;`
+`fi`
