@@ -41,6 +41,10 @@ list active sessions:
 
 ## Source .bashrc upon login:
 Add the following to `~/.profile`:
-`if [ -s ~/.bashrc ]; then`
+`if [ -s ~/.bashrc ]; then`  
+
+`if [ -s ~/.bashrc ]; then` 
+
 `    source ~/.bashrc;`
+
 `fi`
