@@ -16,7 +16,7 @@ Exit and save changes:
 `sudo find /path/to/dir -type d -exec chmod 755 {} \;`
 
 ### grep:
-`grep -r 'stringToSearch' *`
+`grep -r 'stringToSearch' *`.   
 Search for string `pattern` in all files/folders in directory:  
 `grep -rnw '/path/to/somewhere/' -e 'pattern'`.   
 Search the output of some command:   
