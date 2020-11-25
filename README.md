@@ -52,4 +52,5 @@ Add the following to `~/.profile`:
 
 
 ## Colored PS1  
+Add to `~/.bashrc`:  
 `export PS1="\e[0;34m[\u@\h \W]\$ \e[m"`
