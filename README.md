@@ -49,3 +49,7 @@ Add the following to `~/.profile`:
 `    source ~/.bashrc;`
 
 `fi`
+
+
+## Colored PS1  
+`export PS1="\e[0;34m[\u@\h \W]\$ \e[m"`
