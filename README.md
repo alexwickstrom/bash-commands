@@ -64,12 +64,11 @@ https://stackoverflow.com/questions/9701366/vim-backspace-leaves
 
 
 ## start heroku app
-`git init` # initialize your app as a Git repository.  
-`git remote add github.com/username/repo.git`.  
-`git add -A`.  
-`git commit -m "first commit`. 
-`git push origin master`. 
-
-`heroku login` # login via web app. 
+`git init` # initialize your app as a Git repository.   
+`git remote add github.com/username/repo.git`.   
+`git add -A`.   
+`git commit -m "first commit`.  
+`git push origin master`.  
+`heroku login` # login via web app.  
 `heroku create` # make a git remote associated with this local repo. 
 `git push heroku master`. 
