@@ -70,5 +70,5 @@ https://stackoverflow.com/questions/9701366/vim-backspace-leaves
 `git commit -m "first commit`.  
 `git push origin master`.  
 `heroku login` # login via web app.  
-`heroku create` # make a git remote associated with this local repo. 
+`heroku create` # make a git remote associated with this local repo.   
 `git push heroku master`. 
